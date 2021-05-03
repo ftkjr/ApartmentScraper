@@ -2,6 +2,8 @@
 
 This repository contains two jupyter notebooks for scraping apartments for rent online then sorting through the data.
 
+WARNING: LOOK BEFORE YOU LEAP, OR IN THIS CASE, READ BEFORE YOU RUN!
+
 ### Scraper
 
 This hits the site, looks through the available list of apartment buildings (referred to as residences in the code), then goes to each residence's dedicated page and collects data on the listed apartments.
